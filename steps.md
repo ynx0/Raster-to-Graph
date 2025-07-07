@@ -30,7 +30,12 @@ cd ../..
 
 ---
 
-set up runpodctl or use scp to transfer weight file
+load any images to evaluate into data/dataset_v5/test
+
+set up runpodctl or use scp to transfer weight file into root of repo
+
+
+`python demo.py`
 
 
 
